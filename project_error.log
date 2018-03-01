@@ -1,0 +1,10 @@
+[Thu Mar 01 21:01:54.881182 2018] [auth_digest:notice] [pid 19104:tid 680] AH01757: generating secret for digest authentication ...
+[Thu Mar 01 21:01:54.972754 2018] [mpm_winnt:notice] [pid 19104:tid 680] AH00455: Apache/2.4.18 (Win64) PHP/7.2.2 configured -- resuming normal operations
+[Thu Mar 01 21:01:54.972754 2018] [mpm_winnt:notice] [pid 19104:tid 680] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 01 21:01:54.972754 2018] [core:notice] [pid 19104:tid 680] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.18\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.18'
+[Thu Mar 01 21:01:55.003331 2018] [mpm_winnt:notice] [pid 19104:tid 680] AH00418: Parent: Created child process 24524
+[Thu Mar 01 21:01:55.582403 2018] [auth_digest:notice] [pid 24524:tid 592] AH01757: generating secret for digest authentication ...
+[Thu Mar 01 21:01:55.658459 2018] [mpm_winnt:notice] [pid 24524:tid 592] AH00354: Child: Starting 64 worker threads.
+2018-03-01T20:02:21+00:00 [critical] Uncaught Exception: No route found for "GET /app_dev.php"
+2018-03-01T20:20:56+00:00 [info] Matched route "index".
+2018-03-01T20:24:19+00:00 [info] Matched route "app_naty_homepage".

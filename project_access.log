@@ -1,0 +1,7 @@
+127.0.0.1 - - [01/Mar/2018:21:02:14 +0100] "GET /nasto.cz HTTP/1.1" 301 312 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+127.0.0.1 - - [01/Mar/2018:21:02:14 +0100] "GET /nasto.cz/ HTTP/1.1" 404 4735 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+127.0.0.1 - - [01/Mar/2018:21:02:21 +0100] "GET /nasto.cz/app_dev.php HTTP/1.1" 404 32770 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+127.0.0.1 - - [01/Mar/2018:21:20:51 +0100] "GET /nasto.cz/ HTTP/1.1" 200 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+127.0.0.1 - - [01/Mar/2018:21:20:57 +0100] "GET /favicon.ico HTTP/1.1" 200 202575 "http://nix.lo/nasto.cz/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+127.0.0.1 - - [01/Mar/2018:21:24:17 +0100] "GET /nasto.cz/ HTTP/1.1" 200 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+127.0.0.1 - - [01/Mar/2018:21:24:19 +0100] "GET /favicon.ico HTTP/1.1" 200 202575 "http://nix.lo/nasto.cz/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
