@@ -8,3 +8,7 @@
 2018-03-01T20:02:21+00:00 [critical] Uncaught Exception: No route found for "GET /app_dev.php"
 2018-03-01T20:20:56+00:00 [info] Matched route "index".
 2018-03-01T20:24:19+00:00 [info] Matched route "app_naty_homepage".
+2018-03-01T20:51:40+00:00 [info] Matched route "app_naty_homepage".
+2018-03-01T20:56:10+00:00 [info] Matched route "app_naty_homepage".
+2018-03-01T20:56:10+00:00 [critical] Uncaught PHP Exception Twig_Error_Syntax: "A template that extends another one cannot include contents outside Twig blocks. Did you forget to put the contents inside a {% block %} tag?" at C:\stoupa101.cz\nasto\templates\naty\homepage.html.twig line 2
+2018-03-01T20:56:52+00:00 [info] Matched route "app_naty_homepage".

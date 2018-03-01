@@ -10,16 +10,17 @@ namespace App\Controller;
 
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 
-class NatyController
+class NatyController extends AbstractController
 {
     /**
      * @return Response
      * @Route("/")
      */
     public function homepage() {
-        return new Response('start');
+        return $this->render('naty/homepage.html.twig');
     }
 
 }
