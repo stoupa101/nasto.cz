@@ -17,7 +17,7 @@ class NatyController extends AbstractController
 {
     /**
      * @return Response
-     * @Route("/")
+     * @Route("/", name="homepage")
      */
     public function homepage() {
         return $this->render('naty/homepage.html.twig');
